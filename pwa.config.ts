@@ -7,7 +7,7 @@ export default {
   shortName: 'CJI',
   description: 'Navigating Opportunities in Chemistry',
   direction: 'auto',
-  language: 'en-US',
+  language: 'en-GB',
   backgroundColor: '#fff',
   themeColor: '#fff',
   display: 'standalone',
@@ -18,10 +18,10 @@ export default {
   preferRelatedApplications: false,
   shortcuts: [
     {
-      name: 'Shortcut 1',
-      shortName: 'Shortcut 1',
-      description: 'Shortcut 1 description goes here...',
-      url: '/search/label/shortcut-1?utm_source=homescreen',
+      name: 'Resources',
+      shortName: 'Resources',
+      description: 'Get resources...',
+      url: '/search/label/Resources?utm_source=homescreen',
     },
     {
       name: 'Shortcut 2',
@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.chemistryjobinsight.blogspot.com',
 } satisfies Config;
