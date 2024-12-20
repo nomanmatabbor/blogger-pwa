@@ -5,7 +5,7 @@
   "description": "Navigating Opportunities in Chemistry",
   "version": "1.0",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "en-GB",
   "orientation": "any",
   "start_url": "/?utm_source=homescreen",
   "scope": "/",
@@ -116,10 +116,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "/search/label/shortcut-1?utm_source=homescreen",
+      "name": "Resources",
+      "short_name": "Resources",
+      "description": "Get resources...",
+      "url": "/search/label/Resources?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",

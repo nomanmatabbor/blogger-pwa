@@ -5,10 +5,10 @@
   "description": "Navigating Opportunities in Chemistry",
   "version": "1.0",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "en-GB",
   "orientation": "any",
-  "start_url": "https://hello-example.blogspot.com/?utm_source=homescreen",
-  "scope": "https://hello-example.blogspot.com/",
+  "start_url": "https://www.chemistryjobinsight.blogspot.com/?utm_source=homescreen",
+  "scope": "https://www.chemistryjobinsight.blogspot.com/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -116,10 +116,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-1?utm_source=homescreen",
+      "name": "Resources",
+      "short_name": "Resources",
+      "description": "Get resources...",
+      "url": "https://www.chemistryjobinsight.blogspot.com/search/label/Resources?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -131,7 +131,7 @@
       "name": "Shortcut 2",
       "short_name": "Shortcut 2",
       "description": "Shortcut 2 description goes here...",
-      "url": "https://hello-example.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
+      "url": "https://www.chemistryjobinsight.blogspot.com/search/label/shortcut-2?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
