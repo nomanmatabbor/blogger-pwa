@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
+  "name": "Chemistry Job Insight",
   "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "short_name": "CJI",
+  "description": "Navigating Opportunities in Chemistry",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
