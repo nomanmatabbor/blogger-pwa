@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://www.chemistryjobinsight.blogspot.com',
+  origin: 'https://www.chemistryjobinsight.com',
 } satisfies Config;
